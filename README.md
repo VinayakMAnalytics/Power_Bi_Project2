@@ -7,22 +7,16 @@ This project delves into Netflix data to uncover insights about its content libr
 - Power BI
 - KPI (Key Performance Indicator)
 - Excel (for data cleaning)
--PPT
+- PPT (Power Point Presentation)
 
 ## Dataset:
 The dataset includes comprehensive Netflix information, such as movie and show titles, release years, genres, ratings, and regional availability. The data was cleaned and transformed for analysis to highlight meaningful patterns and insights.
 
 ## Key Features:
--Interactive dashboards exploring Netflix’s content library and performance.
--Genre analysis to determine trends in audience preferences.
--KPIs highlighting popular content and regional availability.
--Advanced visualizations showcasing user-friendly insights into Netflix’s catalog.
-
-## How to Use:
--Clone or download the repository.
--Open the Power BI file (NetflixDashboard.pbix).
--Load the dataset (if provided separately) or explore the preloaded data directly.
--Interact with the dashboards to explore insights.
+- Interactive dashboards exploring Netflix’s content library and performance.
+- Genre analysis to determine trends in audience preferences.
+- KPIs highlighting popular content and regional availability.
+- Advanced visualizations showcasing user-friendly insights into Netflix’s catalog.
 
 ## Screenshots:
 Dashboard Screenshot ('Dashboard')
