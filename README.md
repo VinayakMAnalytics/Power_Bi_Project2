@@ -4,10 +4,10 @@
 This project delves into Netflix data to uncover insights about its content library, performance metrics, and audience preferences. Using Power BI, an interactive dashboard was created to visualize key aspects such as genre popularity, regional content distribution, and performance trends.
 
 ## Technologies Used:
--Power BI
--Excel (for data preparation and cleaning)
--DAX (Data Analysis Expressions for custom metrics)
--PPT ( Power Point presentation)
+- Power BI
+- KPI (Key Performance Indicator)
+- Excel (for data cleaning)
+
 
 ## Dataset:
 The dataset includes comprehensive Netflix information, such as movie and show titles, release years, genres, ratings, and regional availability. The data was cleaned and transformed for analysis to highlight meaningful patterns and insights.
