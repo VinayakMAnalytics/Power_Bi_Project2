@@ -30,7 +30,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contact:
 Email: vinumagdum114@gmail.com
-LinkedIn: Vinayak Magdum
+LinkedIn: [Vinayak Magdum](https://www.linkedin.com/in/vinayak-magdum62002/)
 
 ## Acknowledgments:
 Special thanks to Power BI Community and online learning resources for guidance throughout the project.
