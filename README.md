@@ -7,7 +7,7 @@ This project delves into Netflix data to uncover insights about its content libr
 - Power BI
 - KPI (Key Performance Indicator)
 - Excel (for data cleaning)
-
+-PPT
 
 ## Dataset:
 The dataset includes comprehensive Netflix information, such as movie and show titles, release years, genres, ratings, and regional availability. The data was cleaned and transformed for analysis to highlight meaningful patterns and insights.
